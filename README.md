@@ -7,6 +7,8 @@
 
 I get a lot of questions by email. This way anyone can read the answer!
 
+[![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/Naereen/ama)]
+
 Anything means *anything*. Personal questions. Money. Work. Life. Code.
 Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
 
@@ -20,7 +22,7 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
  - :heart_eyes: If you include at least one emoji in your question, the feedback might come faster!
 
 ### In French? En Français ?
-[In English / En anglais :en:](https://github.com/Naereen/ama)
+[In English / En anglais :gb::us:](https://github.com/Naereen/ama)
 or [In French / En Français :fr:](https://github.com/Naereen/ama.fr).
 
 ### Links

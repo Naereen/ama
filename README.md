@@ -16,7 +16,7 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
 
  - :mag: Ensure your question has not already been answered.
  - :memo: Use a succinct title and description.
- - :bug: Bugs & feature requests should be opened on the relevant issue tracker (i.e., on the issue tracker of the corresponding [bitbucket](https://bitbucket.org/lbesson/) or [github](https://github.com/Naereen/) repository).
+ - :bug: Bugs & feature requests should be opened on the relevant issue tracker (i.e., on the issue tracker of the corresponding [Bitbucket](https://bitbucket.org/lbesson/) or [GitHub](https://github.com/Naereen/) repository).
  - :signal_strength: Support questions are better asked on [Stack Overflow](https://stackoverflow.com/) and maths questions on [Math Exchange](https://math.stackexchange.com/).
  - :blush: Be nice, civil and polite ([as always](http://contributor-covenant.org/version/1/4/)).
  - :heart_eyes: If you include at least one emoji in your question, the feedback might come faster!

@@ -7,7 +7,7 @@
 
 I get questions by email, occasionally. This way anyone can read the answer!
 
-[![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/Naereen/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code.
 Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
@@ -32,7 +32,15 @@ or [In French / En Français :fr:](https://github.com/Naereen/ama.fr).
  - [Read more AMAs.](https://github.com/sindresorhus/amas)
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
-### :scroll: License
+### :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/ama.svg)](https://github.com/Naereen/ama/blob/master/LICENSE)
 This (small) repository are published under the terms of the [MIT license](http://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
+© [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama/README.md?pixel)](https://github.com/Naereen/ama/)
+[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/Naereen/ama/graphs/commit-activity)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama/README.md?pixel)](https://GitHub.com/Naereen/ama/)
+
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
+
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)

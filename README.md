@@ -33,7 +33,7 @@ or [In French / En Français :fr:](https://github.com/Naereen/ama.fr).
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
 ### :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/ama.svg)](https://github.com/Naereen/ama/blob/master/LICENSE)
-This (small) repository are published under the terms of the [MIT license](http://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
+This (small) repository is published under the terms of the [MIT license](http://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
 
 [![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/Naereen/ama/graphs/commit-activity)
